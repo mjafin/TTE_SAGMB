@@ -1,0 +1,185 @@
+\begin{thebibliography}{25}
+\newcommand{\enquote}[1]{``#1''}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+
+\bibitem[{Bolstad et~al.(2003)Bolstad, Irizarry, \AA{}strand, and
+  Speed}]{Bolstad:03}
+Bolstad, B.~M., R.~A. Irizarry, M.~\AA{}strand, and T.~P. Speed (2003):
+  \enquote{A comparison of normalization methods for high density
+  oligonucleotide array data based on variance and bias,}
+  \emph{Bioinformatics}, 19 (2), 185--193.
+
+\bibitem[{Boulesteix and Strimmer(2006)}]{Boulesteix:06}
+Boulesteix, A.-L. and K.~Strimmer (2006): \enquote{Partial least squares: a
+  versatile tool for the analysis of high-dimensional genomic data,}
+  \emph{Briefings is Bioinformatics}, 8, 32--44.
+
+\bibitem[{Buyse et~al.(2006)Buyse, Loi, van't Veer, Viale, Delorenzi, Glas,
+  d'Assignies, Bergh, Lidereau, Ellis, Harris, Bogaerts, Therasse, Floore,
+  Amakrane, Piette, Rutgers, Sotiriou, Cardoso, Piccart, and {On behalf of the
+  TRANSBIG Consortium}}]{Buyse:06}
+Buyse, M., S.~Loi, L.~van't Veer, G.~Viale, M.~Delorenzi, A.~M. Glas, M.~S.
+  d'Assignies, J.~Bergh, R.~Lidereau, P.~Ellis, A.~Harris, J.~Bogaerts,
+  P.~Therasse, A.~Floore, M.~Amakrane, F.~Piette, E.~Rutgers, C.~Sotiriou,
+  F.~Cardoso, M.~J. Piccart, and {On behalf of the TRANSBIG Consortium} (2006):
+  \enquote{Validation and clinical utility of a 70-gene prognostic signature
+  for women with node-negative breast cancer,} \emph{J Natl Cancer Inst},
+  98(17), 1183--92.
+
+\bibitem[{Desmedt et~al.(2007)Desmedt, Piette, Loi, Wang, Lallemand,
+  Haibe-Kains, Viale, Delorenzi, Zhang, d'Assignies, Bergh, Lidereau, Ellis,
+  Harris, Klijn, Foekens, Cardoso, Piccart, Buyse, Sotiriou, and {the TRANSBIG
+  Consortium}}]{Desmedt:07}
+Desmedt, C., F.~Piette, S.~Loi, Y.~Wang, F.~Lallemand, B.~Haibe-Kains,
+  G.~Viale, M.~Delorenzi, Y.~Zhang, M.~S. d'Assignies, J.~Bergh, R.~Lidereau,
+  P.~Ellis, A.~L. Harris, J.~G. Klijn, J.~A. Foekens, F.~Cardoso, M.~J.
+  Piccart, M.~Buyse, C.~Sotiriou, and {the TRANSBIG Consortium} (2007):
+  \enquote{Strong time dependence of the 76-gene prognostic signature for
+  node-negative breast cancer patients in the {TRANSBIG} multicenter
+  independent validation series,} \emph{Clin Can Res}, 13, 3207--3214.
+
+\bibitem[{Dhillon et~al.(2007)Dhillon, Hagan, Rath, and Kolch}]{Dhillon:07}
+Dhillon, A.~S., S.~Hagan, O.~Rath, and W.~Kolch (2007): \enquote{{MAP} kinase
+  signaling pathways in cancer,} \emph{Oncogene}, 26, 3279--3290.
+
+\bibitem[{Gui and Li(2005)}]{Gui:05}
+Gui, J. and H.~Li (2005): \enquote{Penalized {C}ox regression analysis in the
+  high-dimensional and low-sample size settings, with applications to
+  microarray gene expression data,} \emph{Bioinformatics}, 21(13), 3001--3008.
+
+\bibitem[{Hackstadt and Hess(2009)}]{Hackstadt:09}
+Hackstadt, A.~J. and A.~M. Hess (2009): \enquote{Filtering for increased power
+  for microarray data analysis,} \emph{BMC Bioinformatics}, 10, 11.
+
+\bibitem[{{Harrell, Jr.}(2010)}]{Harrell:10}
+{Harrell, Jr.}, F.~E. (2010): \emph{Regression modeling strategies: with
+  applications to linear models, logistic regression, and survival analysis},
+  Springer.
+
+\bibitem[{Hedley et~al.(2011)Hedley, Allan, and Xenocostas}]{Hedley:11}
+Hedley, B.~D., A.~L. Allan, and A.~Xenocostas (2011): \enquote{The role of
+  erythropoietin and erythropoiesis-stimulating agents in tumor progression,}
+  \emph{Clin Cancer Res}, 17(20), 6373--6380.
+
+\bibitem[{Ishwaran et~al.(2008)Ishwaran, Kogalur, Blackstone, and
+  Lauer}]{Ishwaran:08}
+Ishwaran, H., U.~B. Kogalur, E.~H. Blackstone, and M.~S. Lauer (2008):
+  \enquote{Random survival forests,} \emph{Annals of Applied Statistics}, 2(3),
+  841--860.
+
+\bibitem[{Kammers et~al.(2011)Kammers, Lang, Hengstler, Schmidt, and
+  Rahnenf\"uhrer}]{Kammers:11}
+Kammers, K., M.~Lang, J.~G. Hengstler, M.~Schmidt, and J.~Rahnenf\"uhrer
+  (2011): \enquote{Survival models with preclustered gene groups as
+  covariates,} \emph{BMC Bioinformatics}, 12, 478.
+
+\bibitem[{Katz et~al.(2006)Katz, Irizarry, Lin, Tripputi, and Porter}]{Katz:06}
+Katz, S., R.~A. Irizarry, X.~Lin, M.~Tripputi, and M.~W. Porter (2006):
+  \enquote{A summarization approach for {A}ffymetrix {G}ene{C}hip data using a
+  reference training set from a large, biologically diverse database,}
+  \emph{BMC Bioinformatics}, 7, 464.
+
+\bibitem[{Kennedy et~al.(2011)Kennedy, Bylesjo, Kerr, Davison, Black, Kay,
+  Holt, Proutski, Ahdesmaki, Farztdinov, Goffard, Hey, McDyer, Mulligan,
+  Mussen, O'Brien, Gavin, Oliver, Walker, Mulligan, Wilson, Winter, O'Donoghue,
+  Mulcahy, O'Sullivan, Sheahan, Hyland, Dhir, Bathe, Winqvist, Manne,
+  Shanmugam, Ramaswamy, Leon, Jr, McDermott, Wilson, Longley, Marshall,
+  Cummins, Sargent, Johnston, and Harkin}]{Kennedy:11}
+Kennedy, R.~D., M.~Bylesjo, P.~Kerr, T.~Davison, J.~M. Black, E.~W. Kay, R.~J.
+  Holt, V.~Proutski, M.~Ahdesmaki, V.~Farztdinov, N.~Goffard, P.~Hey,
+  F.~McDyer, K.~Mulligan, J.~Mussen, E.~O'Brien, Gavin, Oliver, S.~M. Walker,
+  J.~M. Mulligan, C.~Wilson, A.~Winter, D.~O'Donoghue, H.~Mulcahy,
+  J.~O'Sullivan, K.~Sheahan, J.~Hyland, R.~Dhir, O.~F. Bathe, O.~Winqvist,
+  U.~Manne, C.~Shanmugam, S.~Ramaswamy, E.~J. Leon, W.~I.~S. Jr, U.~McDermott,
+  R.~H. Wilson, D.~Longley, J.~Marshall, R.~Cummins, D.~J. Sargent, P.~G.
+  Johnston, and D.~P. Harkin (2011): \enquote{Development and independent
+  validation of a prognostic assay for stage {II} colon cancer using
+  formalin-fixed paraffin-embedded tissue,} \emph{J Clin Oncol.}, 29(35).
+
+\bibitem[{Li and Gui(2004)}]{Li:04}
+Li, H. and J.~Gui (2004): \enquote{Partial {C}ox regression analysis for
+  high-dimensional microarray gene expression data,} \emph{Bioinformatics}, 20
+  Suppl. 1, i208--i215.
+
+\bibitem[{Millikan et~al.(2008)Millikan, Newman, Tse, Moorman, Conway, Smith,
+  Labbok, Geradts, Bensen, Jackson, Nyante, Livasy, Carey, Earp, and
+  Perou}]{Millikan:08}
+Millikan, R., B.~Newman, C.-K. Tse, P.~Moorman, K.~Conway, L.~Smith, M.~Labbok,
+  J.~Geradts, J.~Bensen, S.~Jackson, S.~Nyante, C.~Livasy, L.~Carey, H.~S.
+  Earp, and C.~Perou (2008): \enquote{Epidemiology of basal-like breast
+  cancer,} \emph{Breast Cancer Res Treat}, 109(1), 123--139.
+
+\bibitem[{Newson(2006)}]{Newson:06}
+Newson, R. (2006): \enquote{Confidence intervals for rank statistics: Somers' d
+  and extensions,} \emph{The Stata Journal}, 6(3), 309--334.
+
+\bibitem[{Paik et~al.(2004)Paik, Shak, Tang, Kim, Baker, Cronin, Baehner,
+  Walker, Watson, Park, Hiller, Fisher, Wickerham, Bryant, and
+  Wolmark}]{Paik:04}
+Paik, S., S.~Shak, G.~Tang, C.~Kim, J.~Baker, M.~Cronin, F.~L. Baehner, M.~G.
+  Walker, D.~Watson, T.~Park, W.~Hiller, E.~R. Fisher, D.~L. Wickerham,
+  J.~Bryant, and N.~Wolmark (2004): \enquote{A multigene assay to predict
+  recurrence of {T}amoxifen-treated, node-negative breast cancer,} \emph{N Engl
+  J Med}, 351, 2817--2826.
+
+\bibitem[{Pillai et~al.(2011)Pillai, Deeter, Rigl, Nystrom, Miller, Buturovic,
+  and Henner}]{Pillai:11}
+Pillai, R., R.~Deeter, C.~Rigl, J.~Nystrom, M.~H. Miller, L.~Buturovic, and
+  W.~Henner (2011): \enquote{Validation and reproducibility of a
+  microarray-based gene expression test for tumor identification in
+  formalin-fixed, paraffin-embedded specimens,} \emph{The Journal of Molecular
+  Diagnostics}, 13(1), 48--56.
+
+\bibitem[{Popovici et~al.(2010)Popovici, Chen, Gallas, Hatzis, Shi, Samuelson,
+  Nikolsky, Tsyganova, Ishkin, Tatiana Nikolskaya~and, Valero, Booser,
+  Delorenzi, Hortobagyi, Shi, Symmans, and Pusztai}]{Popovici:10}
+Popovici, V., W.~Chen, B.~D. Gallas, C.~Hatzis, W.~Shi, F.~W. Samuelson,
+  Y.~Nikolsky, M.~Tsyganova, A.~Ishkin, K.~R.~H. Tatiana Nikolskaya~and,
+  V.~Valero, D.~Booser, M.~Delorenzi, G.~N. Hortobagyi, L.~Shi, W.~F. Symmans,
+  and L.~Pusztai (2010): \enquote{Effect of training-sample size and
+  classification difficulty on the accuracy of genomic predictors,}
+  \emph{Breast Cancer Res}, 12, (1):R5.
+
+\bibitem[{Raykar et~al.(2007)Raykar, Steck, Krishnapuram, Dehing-Oberije, and
+  Lambin}]{Raykar:07}
+Raykar, V.~C., H.~Steck, B.~Krishnapuram, C.~Dehing-Oberije, and P.~Lambin
+  (2007): \enquote{On ranking in survival analysis: Bounds on the concordance
+  index,} in \emph{NIPS}.
+
+\bibitem[{Schmidt et~al.(2008)Schmidt, B\"ohm, von T\"orne, Steiner, Puhl,
+  Pilch, Lehr, Hengstler, K\"olbl, and Gehrmann}]{Schmidt:08}
+Schmidt, M., D.~B\"ohm, C.~von T\"orne, E.~Steiner, A.~Puhl, H.~Pilch, H.-A.
+  Lehr, J.~G. Hengstler, H.~K\"olbl, and M.~Gehrmann (2008): \enquote{The
+  humoral immune system has a key prognostic impact in node-negative breast
+  cancer,} \emph{Cancer Res}, 68, 5405.
+
+\bibitem[{Simon(2012)}]{Simon:12}
+Simon, R. (2012): \enquote{Clinical trials for predictive medicine,}
+  \emph{Statistics in Medicine}, 31, 3031--3040.
+
+\bibitem[{{Van't Veer} et~al.(2002){Van't Veer}, Dai, {van de Vijver}, He,
+  Hart, Mao, Peterse, {van der Kooy}, Marton, Witteveen, Schreiber, Kerkhoven,
+  Roberts, Linsley, Bernards, and Friend}]{Veer:02}
+{Van't Veer}, L.~J., H.~Dai, M.~J. {van de Vijver}, Y.~D. He, A.~A.~M. Hart,
+  M.~Mao, H.~L. Peterse, K.~{van der Kooy}, M.~J. Marton, A.~T. Witteveen,
+  G.~J. Schreiber, R.~M. Kerkhoven, C.~Roberts, P.~S. Linsley, R.~Bernards, and
+  S.~H. Friend (2002): \enquote{Gene expression profiling predicts clinical
+  outcome of breast cancer,} \emph{Nature}, 415, 530--536.
+
+\bibitem[{Wang et~al.(2005)Wang, Klijn, Zhang, Sieuwerts, Look, Yang, Talantov,
+  Timmermans, {Meijer-van Gelder}, Yu, Jatkoe, Berns, Atkins, and
+  Foekens}]{Wang:05}
+Wang, Y., J.~G. Klijn, Y.~Zhang, A.~M. Sieuwerts, M.~P. Look, F.~Yang,
+  D.~Talantov, M.~Timmermans, M.~E. {Meijer-van Gelder}, J.~Yu, T.~Jatkoe,
+  E.~M. Berns, D.~Atkins, and J.~A. Foekens (2005): \enquote{Gene-expression
+  profiles to predict distant metastasis of lymph-node-negative primary breast
+  cancer,} \emph{The Lancet}, 365, 671--679.
+
+\bibitem[{Witten and Tibshirani(2010)}]{Witten:10}
+Witten, D. and R.~Tibshirani (2010): \enquote{Survival analysis with
+  high-dimensional covariates,} \emph{Statistical Methods in Medical Research},
+  19, 29.
+
+\end{thebibliography}

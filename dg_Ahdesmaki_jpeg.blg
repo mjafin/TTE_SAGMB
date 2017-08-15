@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2012/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: dg_Ahdesmaki_jpeg.aux
+The style file: DeGruyter.bst
+Database file #1: TimeToEvent.bib
+Warning--empty pages in Raykar:07
+You've used 25 entries,
+            2823 wiz_defined-function locations,
+            2828 strings with 59351 characters,
+and the built_in function-call counts, 23571 in all, are:
+= -- 1510
+> -- 2092
+< -- 8
++ -- 701
+- -- 666
+* -- 2182
+:= -- 3684
+add.period$ -- 49
+call.type$ -- 25
+change.case$ -- 346
+chr.to.int$ -- 25
+cite$ -- 26
+duplicate$ -- 1577
+empty$ -- 1270
+format.name$ -- 745
+if$ -- 4477
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 370
+newline$ -- 82
+num.names$ -- 100
+pop$ -- 700
+preamble$ -- 1
+purify$ -- 322
+quote$ -- 0
+skip$ -- 343
+stack$ -- 0
+substring$ -- 799
+swap$ -- 854
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 222
+warning$ -- 1
+while$ -- 113
+width$ -- 0
+write$ -- 279
+(There was 1 warning)
